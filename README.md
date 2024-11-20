@@ -1,1 +1,1 @@
-# airdrop
+# WalletConnect Airdrop
